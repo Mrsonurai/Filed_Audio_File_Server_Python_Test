@@ -17,7 +17,7 @@ This is Test challenge by filed
     5. set up flask env variable, run commands
         1. `set/export FLASK_APP=app.py`
         2. `set/export FLASK_ENV=developement`
-        Use 'set' for Windows and 'export' for Linux.
+    Use 'set' for Windows and 'export' for Linux.
 
 2. create database
         
