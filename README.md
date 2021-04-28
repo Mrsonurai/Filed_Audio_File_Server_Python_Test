@@ -15,8 +15,9 @@ This is Test challenge by filed
         `python -m pipenv install -r requirements.txt`
     4. go in `pipenv` virtualenv by `python -m pipenv shell`
     5. set up flask env variable, run commands
-        1. `export FLASK_APP=app.py`
-        2. `export FLASK_ENV=developement`
+        1. `set/export FLASK_APP=app.py`
+        2. `set/export FLASK_ENV=developement`
+        Use 'set' for Windows and 'export' for Linux.
 
 2. create database
         
