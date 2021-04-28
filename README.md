@@ -43,7 +43,7 @@ This is Test challenge by filed
         this  will create a migration folder, and create table in the database
 4. run app, activate envrionment `pipenv shell` and run the command to run server
     `flask run`
-5. check if server is running, in browser go to `localhost:5000/`, you will get `server is running` msg.
+5. check if server is running, in browser go to `localhost:5000/`, you will get `Server is Running` msg.
 
             
      
