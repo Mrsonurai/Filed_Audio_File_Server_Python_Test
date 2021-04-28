@@ -107,7 +107,7 @@ Test challenge summary is define in documentation folder
  4. run flask server :
         `flask run`
  5. check if server is running at browser
-        `localhost:5000/` you will get , server is running
+        `localhost:5000/` you will get , Server is Running
         
 
 # How to TEST APIS
